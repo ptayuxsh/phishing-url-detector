@@ -1,2 +1,3 @@
 # phishing-url-detector
-To catch the fishing links from the froud.
+To catch the fishing links across the internet.
+
